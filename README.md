@@ -100,4 +100,5 @@ Following are the tasks given till now:
 - [Kartikeya Gupta](https://github.com/kartikcode)
 - [Tej Prakash](https://github.com/tej4826)
 - [Tushar Kumar](https://github.com/ktushar585)
+- [Divyansh Garg](https://github.com/divigarg/8-in-8)
 
